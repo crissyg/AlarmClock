@@ -10,7 +10,7 @@ from threading import *
 root = Tk()
 
 # Set geometry
-root.geometry("400x200")
+root.geometry("300x200")
 
 pygame.init()
 pygame.mixer.init()
