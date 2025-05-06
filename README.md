@@ -13,7 +13,7 @@ pip3 install pygame
 
 ## How to Run AlarmClock.py:
 
-1. Copy and save alarmclock.py locally on your PC.
+1. Clone the <a href="https://github.com/crissyg/AlarmClock.git">AlarmClock</a> repo.
 2. Upload your alarm .wav or .mp3 to the /AlarmClock/ directory and save it as sound.wav or sound.mp3.
 3. Save your changes.
 4. Open terminal and run alarmclock.py in the terminal.
